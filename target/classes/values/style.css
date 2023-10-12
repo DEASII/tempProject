@@ -1,0 +1,67 @@
+.shadow{
+                        -fx-effect:dropShadow(three-pass-box,rgb(0,0,0,0.1), 10.0, 0.0, 0.0, 10.0);
+                    }
+.cursor-hand{
+    -fx-cursor:hand;
+}
+
+.button-transparent{
+    -fx-background-color:transparent;
+}
+
+.default-background-navy{
+    -fx-background-color:#2d3553;
+}
+
+.default-background-lightnavy{
+    -fx-background-color:#808eae;
+}
+
+.default-background-transparent{
+    -fx-background-color:transparent;
+}
+
+.default-border-navy{
+    -fx-border-color:#2d3553;
+    -fx-background-color:#FFFFFF;
+}
+
+.default-label-navy{
+    -fx-text-fill:#2d3553;
+}
+
+.default-label-lightnavy{
+    -fx-text-fill:#808eae;
+}
+
+.default-label-white{
+    -fx-text-fill:#ffffff;
+}
+
+.default-button-white-navy{
+    -fx-background-color:#FFFFFF;
+    -fx-text-fill:#2d3553;
+    -fx-cursor:hand;
+}
+
+.default-button-navy-white{
+    -fx-background-color:#2d3553;
+    -fx-text-fill:#ffffff;
+    -fx-cursor:hand;
+}
+
+.default-button-lightnavy-navy{
+    -fx-background-color:#808eae;
+    -fx-text-fill:#2d3553;
+    -fx-cursor:hand;
+}
+
+.red-text {
+    -fx-text-fill: red;
+}
+
+.green-text {
+    -fx-text-fill: green;
+}
+
+
